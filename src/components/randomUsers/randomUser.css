@@ -1,0 +1,8 @@
+.makeStyles-randomUserStyles-9::-webkit-scrollbar {
+    width: 0.5em;
+  }
+
+.makeStyles-randomUserStyles-9::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid #1A1A29;
+  }
